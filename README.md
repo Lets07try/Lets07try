@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 </div>
 
-<h1 align="center">Hey, I'm Herin</h1>
+<h1 align="center">Hey, I'm Jastor</h1>
 <h3 align="center">A passionate developer building amazing things.</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herrin7&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lets07try&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
 
 <br>
@@ -53,5 +53,5 @@ Feel free to connect with me. Let's build something amazing together!
 <h2 align="center">My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=herrin7&show_icons=true&theme=vision-friendly-dark" alt="Herin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lets07try&show_icons=true&theme=vision-friendly-dark" alt="Herin's GitHub Stats" />
 </p>
