@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=99F71E&width=435&lines=%F0%9F%91%8B+Hey%2C+I'm+Jastor+%3A)" alt="Typing SVG" /></a>
 </div>
 
-<br>
+
 
 
 
@@ -40,9 +40,9 @@ Here are some ideas to get you started:
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=Lets07try&show_icons=true&theme=vision-friendly-dark" alt="Your GitHub Stats" />
   <br>
-  <!-- GitHub Streak Stats -->
+  <!-- GitHub Streak Stats 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Lets07try&theme=vision-friendly-dark" alt="Your GitHub Streak" />
-  <br>
+  <br>  -->
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lets07try&layout=compact&theme=vision-friendly-dark" alt="Your Top Languages" />
 </div>
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ---
 
 <!-- 4. SKILLS: Your Tech Stack -->
-<h2 align="center">🛠️ My Tech Stack</h2>
+<h2 >🛠️ My Tech Stack</h2>
 
 <p align="center">
   <!-- Add your skills here. Find more icons at https://simpleicons.org/ -->
