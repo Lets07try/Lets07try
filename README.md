@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Lets07try/Lets07try** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 ---
 
 <!-- 4. The "Connect with Me" Section -->
-<h2 align="center">🤝 Connect with Me</h2>
+<h2 >🔗 Connect with Me</h2>
+<p>Feel free to connect with me. Let's build something amazing together!</p>
 
 <p align="center">
   <a href="https://github.com/Lets07try" target="_blank">
